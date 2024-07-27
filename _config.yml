@@ -1,10 +1,10 @@
-title: Mohamed # name of the site
+title: 🏴‍☠️ Mohamed # name of the site
 author: Mohamed Elg # name of site's author
 email: moahmed.elguermat9@gmail.com # email of site's author
 url: https://mohamed-elg.github.io # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  <p>  <br>  Mohamed Elg <br>  DevOps Engineer <br> </p>
+  <p>  <br>  Mohamed EL GUERMAT <br>  DevOps Engineer <br> <br> Paris, France <br> <br> Technologies: Python, Linux, Git, Docker <br> <br> Interest: programming, Chess, reading, the piano <br></p>
 
 permalink: /:slug.html
 
