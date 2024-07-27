@@ -4,13 +4,13 @@
 entries:
   - title: <b> Projects </b>
     entries:
-     - title: VSCode Theme - Mirage Dark++
+     - title: Mirage Dark++ - VSCode Theme
        url: https://github.com/Mohamed-elg/mirage-dark-plus-plus
 
      - title: DotFiles
        url: https://github.com/Mohamed-elg/dotfiles
 
-  - title: <b> Contact </b>
+  - title: <b> Links </b>
     entries:
       - title: Email
         url: mailto:mohamed.elguermat9@gmail.com
