@@ -2,8 +2,11 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: <b> Projects </b>
+  - title: <b> Ongoing projects </b>
     entries:
+     - title: Portfolio
+       url: https://github.com/Mohamed-elg/Mohamed-elg.github.io
+
      - title: Mirage Dark++ - VSCode Theme
        url: https://github.com/Mohamed-elg/mirage-dark-plus-plus
 
