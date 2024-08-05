@@ -15,11 +15,8 @@ entries:
 
   - title: <b> Links </b>
     entries:
-      - title: Email
-        url: mailto:mohamed.elguermat9@gmail.com
+      - title: GitHub
+        url: https://github.com/Mohamed-elg
 
       - title: Linkedin
         url: https://www.linkedin.com/in/mohamed-el-guermat/
-
-      - title: GitHub
-        url: https://github.com/Mohamed-elg
