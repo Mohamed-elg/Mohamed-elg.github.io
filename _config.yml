@@ -4,20 +4,19 @@ email: ""
 url: https://mohamed-elg.github.io
 baseurl: "/"
 description: >
-  <p>  <br>  Mohamed EL GUERMAT <br>  DevOps Engineer <br> Paris, France <br> <br> Technologies: Python, Linux, Git, Docker, Kubernetes <br> <br> Interest: programming, reading, Chess, the piano <br> </p> <br>
+  <p>  <br>  Mohamed EL GUERMAT <br>  DevOps Engineer <br> Paris, France <br> <br> Technologies: Python, Linux, Git, Docker, Kubernetes <br> <br> Interests: programming, reading, Chess, the piano <br> </p> <br>
 
 permalink: /:slug.html
 
-favicon: "assets/images/favicon.png" # name+extension of favicon (which must be put on the root folder)
-goat_counter: "mohamed-elg" # put your GoatCounter name if you want to use GoatCounter analytics
-
+favicon: "assets/images/favicon.png"
+goat_counter: "mohamed-elg"
 remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "dark"
-  back_home_text: ".." # customize text for homepage link in post layout
+  back_home_text: ".."  # customize text for homepage link in post layout
   date_format: "%d-%m-%Y"
-  show_description: True
+  show_description: true
 
 sass:
   style: compressed
