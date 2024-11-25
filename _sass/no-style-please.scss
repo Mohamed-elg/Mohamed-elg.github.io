@@ -21,6 +21,16 @@ body {
   overflow-wrap: break-word;
 }
 
+.cursor {
+    display: inline-block;
+    width: .3em;
+    height: .75em;
+    margin-left: 2px;
+    background-color: #f8f8f8;
+    vertical-align: middle;
+    animation: blink 1s step-start infinite;
+}
+
 .post-meta {
   text-align: right;
 }
