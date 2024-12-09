@@ -4,14 +4,17 @@
 entries:
   - title: <b> Recent projects </b>
     entries:
-     - title: Portfolio
-       url: https://github.com/Mohamed-elg/Mohamed-elg.github.io
+      - title: Portfolio
+        url: https://github.com/Mohamed-elg/Mohamed-elg.github.io
 
-     - title: Mirage Dark++ - VSCode Theme
-       url: https://github.com/Mohamed-elg/mirage-dark-plus-plus
+      - title: Mirage.nvim - Neovim Theme
+        url: https://github.com/Mohamed-elg/mirage.nvim
 
-     - title: DotFiles
-       url: https://github.com/Mohamed-elg/dotfiles
+      - title: Mirage - VSCode Theme
+        url: https://github.com/Mohamed-elg/mirage
+
+      - title: DotFiles
+        url: https://github.com/Mohamed-elg/dotfiles
 
   - title: <b> Links </b>
     entries:
