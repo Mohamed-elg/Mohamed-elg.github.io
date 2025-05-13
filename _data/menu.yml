@@ -10,8 +10,8 @@ entries:
       - title: Mirage.nvim - Neovim Theme
         url: https://github.com/Mohamed-elg/mirage.nvim
 
-      - title: Mirage - VSCode Theme
-        url: https://github.com/Mohamed-elg/mirage
+      - title: cht.sh - Command Line Cheat Sheet
+        url: https://github.com/Mohamed-elg/cht.sh
 
       - title: DotFiles
         url: https://github.com/Mohamed-elg/dotfiles
