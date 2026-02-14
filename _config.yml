@@ -5,7 +5,7 @@ email: ""
 url: https://mohamed-elg.github.io
 baseurl: "/"
 description: >
-  <p>  <br>  Mohamed EL GUERMAT <br>  DevOps Engineer <br> Paris, France <br> <br> Technologies: Python, Linux, Git, Docker, Kubernetes <br> <br> Interests: programming, reading, Chess, the piano <br> </p> <br>
+  <p>  <br>  Mohamed EL GUERMAT <br>  DevOps Engineer <br> Paris, France <br> <br> Technologies: Python, Linux, Git, Docker, Kubernetes, AWS, Terraform <br> <br> Interests: programming, reading, Chess, the piano <br> </p> <br>
 
 permalink: /:slug.html
 
@@ -15,7 +15,7 @@ remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "dark"
-  back_home_text: ".."  # customize text for homepage link in post layout
+  back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%d-%m-%Y"
   show_description: true
 
